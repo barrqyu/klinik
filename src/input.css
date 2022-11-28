@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media only screen and (max-width: 600px) {
+}
+
+.foo {
+  background-image: url("../assets/bg-5.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
